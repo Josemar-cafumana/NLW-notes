@@ -22,9 +22,9 @@ The project developed at this event is a web application built with ReactJS, whi
 
 
 <div style="display: flex; gap: 10; justify-content: center; align-items: center">
-<img src="./public/mobile-1.png" width="35%" style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 1"/>
-<img src="./public/mobile-2.png" width="35%" style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 2"/>
-<img src="./public/mobile-3.png" width="35%"  style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 3"/>
+<img src="./public/mobile-1.png" width="30%" style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 1"/>
+<img src="./public/mobile-2.png" width="30%" style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 2"/>
+<img src="./public/mobile-3.png" width="30%"  style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 3"/>
 </div>
 
 <div >
