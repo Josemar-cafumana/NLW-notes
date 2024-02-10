@@ -1,10 +1,10 @@
-# COVID Tracker
+# Rocketseat NLW - Notes
 
 <p align="center">
-  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/-React-08D9FF?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/github/license/MrRioja/nodejs-api-rest?color=blueviolet&logo=License&style=for-the-badge"/>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/nodejs-api-rest?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Josemar-cafumana/covid-19?color=blueviolet&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Josemar-cafumana/NLW-notes?color=blueviolet&style=for-the-badge">
 
 
 </p>
@@ -18,10 +18,20 @@
 
 ## About
 
-This project is part of a challenge that aims to improve skills in Vue.js, Vite and Tailwind CSS. The goal is to develop an application that uses Vite and Tailwind CSS to present COVID-19 data from different countries in a bar chart. We will use the COVID API to obtain the necessary data.
+The project developed at this event is a web application built with ReactJS, which allows users to create and manage notes efficiently. A special feature of this application is the integration with the browser's native API, which makes it possible to record notes directly on the user's device.
 
-<img src="./public/desktop.png" alt="Screenshot desktop"/>
-<img src="./public/mobile.png" alt="Screenshot mobile"/>
+
+<div style="display: flex; gap: 10; justify-content: center; align-items: center">
+<img src="./public/mobile-1.png" width="35%" style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 1"/>
+<img src="./public/mobile-2.png" width="35%" style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 2"/>
+<img src="./public/mobile-3.png" width="35%"  style="object-fit: cover; margin-right: .5%" alt="Screenshot mobile 3"/>
+</div>
+
+<div >
+<img src="./public/desktop-1.png" alt="Screenshot desktop 1"/>
+<img src="./public/desktop-2.png" alt="Screenshot desktop 2"/>
+<img src="./public/desktop-3.png" alt="Screenshot desktop 3"/>
+</div>
 
 
 ## Installation
@@ -32,10 +42,10 @@ Before you begin, you will need to have the following tools installed on your ma
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Josemar-cafumana/covid-19.git
+$ git clone https://github.com/Josemar-cafumana/NLW-notes.git
 
 # Navigate to the project's folder in the terminal/cmd
-$ cd covid-19
+$ cd NLW-notes
 
 # Install dependencies
 $ npm install
@@ -53,13 +63,21 @@ $ yarn dev
 
 ## Technologies
 
+Aqui está a lista revisada com os links e descrições corrigidas:
+
+Here's the revised list with corrected links and descriptions:
+
 - [TypeScript](https://www.typescriptlang.org/): A superset of JavaScript that adds optional static typing.
 
-- [Vue.js](https://vuejs.org/): A progressive JavaScript framework for building user interfaces.
+- [ReactJS](https://reactjs.org/): A JavaScript library for building user interfaces.
 
-- [ShadcnUI](https://shadcn-ui.vercel.app/): A UI component library for Vue.js.
+- [Radix](https://radix-ui.com/): An accessible UI component library for React.
+
+- [Sonner](https://sonner-ui.com/): A modern and elegant UI component library for React.
 
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
+
+- [SpeechRecognitionAPI](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition): A browser API that enables real-time speech recognition.
 
 - [Vite](https://vitejs.dev/): A next-generation front-end tooling.
 
@@ -71,7 +89,7 @@ These technologies were chosen to provide an efficient development experience, m
 <div align="center">
 <img src="https://github.com/Josemar-cafumana.png" style="width: 100px; border-radius: 50%" />
 <h1>Josemar Cafumana</h1>
-<strong>Backend Developer</strong>
+<strong>Frontend Developer</strong>
 <br/>
 <br/>
 <div  style="display: flex; align-items: center: justify-content: center; text-align: center">
